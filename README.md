@@ -23,21 +23,21 @@ It mirrors real-world revenue operations analytics — the kind used by power di
 ## Power BI Dashboard
 
 ### Page 1 — Executive Overview
-![Executive Overview](screenshots/page1_executive_overview.png)
+![Executive Overview](page1_executive_overview.png)
 
 > 4 KPI cards showing Total Accounts (139K), Total Billing (1.49bn), Bad Debt Rate (46.19%) and Collection Rate (87.82%) — with billing breakdown by category and account share donut chart.
 
 ---
 
 ### Page 2 — Category Analysis
-![Category Analysis](screenshots/page2_category_analysis.png)
+![Category Analysis](page2_category_analysis.png)
 
 > Interactive slicer to filter by any account category. Stacked bar chart comparing Billing, 90-Day Debt and Receipting side by side. Pie chart showing bad debt distribution across categories.
 
 ---
 
 ### Page 3 — Risk & Defaulters
-![Risk & Defaulters](screenshots/page3_risk_defaulters.png)
+![Risk & Defaulters](page3_risk_defaulters.png)
 
 > 3 KPI cards: 35K high-risk accounts, 1bn at-risk debt, 854M recoverable revenue. Column chart showing High/Medium/Low risk by category. Debt tier donut showing 71.56% of debt is Critical tier.
 
