@@ -16,7 +16,7 @@ This project demonstrates a complete **data analysis, business intelligence, and
 
 It mirrors real-world revenue operations analytics — the kind used by power distribution utilities to track billing performance, identify revenue leakage, flag high-risk defaulters, and predict bad debt before it happens.
 
-**Built by:** Shaik Abdullah — Data Analyst with 10+ years in electricity billing & revenue operations
+**Built by:** Shaik Abdullah — Data Analyst with 4+ years in electricity billing & revenue operations
 **Live profile:** [linkedin.com/in/skbhd1-abdullah](https://linkedin.com/in/skbhd1-abdullah)
 
 ---
